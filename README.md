@@ -4,4 +4,4 @@ The fountain works in 2 modes. Each mode lasts 60 seconds and the cycle must be 
 ## Picture of a fountain simulation
 <img src="./fountain.png" alt="drawing" width="800"/>
 You can watch video simulation following link:
-https://www.youtube.com/watch?v=pWIuUawerz4&ab_channel=MarkoTopalovi%C4%87
+## https://www.youtube.com/watch?v=pWIuUawerz4&ab_channel=MarkoTopalovi%C4%87
